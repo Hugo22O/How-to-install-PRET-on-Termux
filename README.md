@@ -9,11 +9,11 @@ After trying to install PRET on Termux I faced some problems, as I couldn't find
 * [Table of conents](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#table-of-contents)
 * [Installing Termux on your device](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-termux-on-your-android-device)
 * [Installing Python2 & Git](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-python2--git)
-* [Installing colorama & pysnmp](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-python2--git))
-* Downloading PRET with Git
-* How to run PRET on Termux? 
-* Troubleshooting
-* Sources, Notes and/or referentions
+* [Installing colorama & pysnmp](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-python2--git)
+* [Downloading PRET with Git](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#downloading-pret-with-git)
+* [How to run PRET on Termux?](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#how-to-run-pret-on-termux)
+* [Troubleshooting](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#troubleshooting)
+* [Sources, Notes and/or referentions](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#sources-notes-andor-referentions)
 
 
 ## Installing Termux on your android device
@@ -43,7 +43,7 @@ For colored output and SNMP support we need to install the third party modules c
 
 Colorama and pysnmp should now be installed, we can now get into the last 2 steps of installing PRET! 
 
-## Downlaoding PRET with Git. 
+## Downloading PRET with Git. 
 
 Now we've installed Python2, colorama & pysnmp it is time to download PRET, you can do so by typing: `git clone https://github.com/RUB-NDS/PRET` PRET should now be ready for use. 
 
