@@ -11,6 +11,14 @@ After trying to install PRET on Termux I faced some problems, as I couldn't find
 
 
 
+## Installing Termux on your android device
+
+*If you already have termux installed, go ahead and skip this step.*
+
+Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required, we will be using Termux to run PRET. 
+
+Firstly; Download Termux from the playstore: https://play.google.com/store/apps/details?id=com.termux or F-Droid: https://f-droid.org/packages/com.termux/ After having Termux installed open up the app. 
+
 
 
 
