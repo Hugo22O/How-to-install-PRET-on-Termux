@@ -8,7 +8,12 @@ After trying to install PRET on Termux I faced some problems, as I couldn't find
 # Table of contents
 * Table of conents
 * Installing Termux on your device
-
+* Installing Python2 & GIt
+* Installing colorama & pysnmp
+* Downloading PRET with Git
+* How to run PRET on Termux? 
+* Troubleshooting
+* Sources, Notes and/or referentions
 
 
 ## Installing Termux on your android device
@@ -17,7 +22,7 @@ After trying to install PRET on Termux I faced some problems, as I couldn't find
 
 Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required, we will be using Termux to run PRET. Download & install Termux from the playstore: https://play.google.com/store/apps/details?id=com.termux or F-Droid: https://f-droid.org/packages/com.termux/ After having Termux installed open up the app. 
 
-## Installing Python 2 & Git
+## Installing Python2 & Git
 
 Alright, you now have Termux session open and it will look like this: 
 
@@ -42,7 +47,7 @@ Colorama and pysnmp should now be installed, we can now get into the last 2 step
 
 Now we've installed Python2, colorama & pysnmp it is time to download PRET, you can do so by typing: `git clone https://github.com/RUB-NDS/PRET` PRET should now be ready for use. 
 
-## How to run PRET? 
+## How to run PRET on Termux? 
 
 Open a Termux session and type in `cd PRET`, you should now be in the PRET folder. Once you're there type in `python2 pret.py` this will scann for printers on your local network that have an open port 9100. You can also add the following arguments:
 
@@ -77,5 +82,4 @@ and then restart Termux session.
 * https://github.com/RUB-NDS/PRET | 03/12/18
 * http://hacking-printers.net/wiki/index.php/Main_Page | 03/12/18
 * https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux | 03/12/18
-  
-# __!!! === GUIDE IS WIP &&& NOT DONE === !!!__
+
