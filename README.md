@@ -19,7 +19,9 @@ Termux is an Android terminal emulator and Linux environment app that works dire
 
 ## Installing Python 2 & Git
 
-Alright, you now have Termux session open and it will look like this: ![](https://puu.sh/CbMAs/52fe2813f6.png)
+Alright, you now have Termux session open and it will look like this: 
+
+![](https://puu.sh/CbMAs/52fe2813f6.png)
 
 Type in the following: 
 `pkg upgrade`
