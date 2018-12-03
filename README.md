@@ -44,7 +44,8 @@ Now we've installed Python2, colorama & pysnmp it is time to download PRET, you 
 
 Open a Termux session and type in `cd PRET`, you should now be in the PRET folder. Once you're there type in `python2 pret.py` this will scann for printers on your local network that have an open port 9100. You can also add the following arguments:
 
-`usage: pret.py [-h] [-s] [-q] [-d] [-i file] [-o file] target {ps,pjl,pcl}
+```
+usage: pret.py [-h] [-s] [-q] [-d] [-i file] [-o file] target {ps,pjl,pcl}
 
 positional arguments:
   target                printer device or hostname
@@ -56,7 +57,8 @@ optional arguments:
   -q, --quiet           suppress warnings and chit-chat
   -d, --debug           enter debug mode (show traffic)
   -i file, --load file  load and run commands from file
-  -o file, --log file   log raw data sent to the target`
+  -o file, --log file   log raw data sent to the target
+  ```
   
   For more information on how to use PRET and the official source you can take a look here: https://github.com/RUB-NDS/PRET
 
