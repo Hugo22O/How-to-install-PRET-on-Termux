@@ -6,10 +6,10 @@ A guide helping you install PRET on Termux.
 After trying to install PRET on Termux I faced some problems, as I couldn't find a guide on how to install PERT on Termux I figured I could make my own and spare you an hour trying to install PRET. :D 
 
 # Table of contents
-* Table of conents
-* Installing Termux on your device
-* Installing Python2 & GIt
-* Installing colorama & pysnmp
+* [Table of conents](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#table-of-contents)
+* [Installing Termux on your device](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-termux-on-your-android-device)
+* [Installing Python2 & Git](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-python2--git)
+* [Installing colorama & pysnmp](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#installing-python2--git))
 * Downloading PRET with Git
 * How to run PRET on Termux? 
 * Troubleshooting
