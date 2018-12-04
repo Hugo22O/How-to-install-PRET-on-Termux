@@ -67,14 +67,14 @@ optional arguments:
   -o file, --log file   log raw data sent to the target
   ```
   
-  For more information on how to use PRET and the official source you can take a look here: https://github.com/RUB-NDS/PRET
+For more information on how to use PRET and the official source you can take a look here: https://github.com/RUB-NDS/PRET
 
 ## Troubleshooting
 
 * Make sure you followed all steps listed above and installed the correct dependencies. 
 * Make sure you type `python2` instead of `python` otherwise pret.py won't run. 
 * If you're still getting an error/shebang try this: `export LD_PRELOAD=${PREFIX}/lib/libtermux-exec.so`
-and then restart Termux session.
+and then restart the Termux session.
 
 ## Sources, Notes and/or referentions
 
