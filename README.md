@@ -5,7 +5,7 @@
 # A-Guide-To-Install-PRET-on-Termux
 A guide helping you install PRET on Termux. 
 
-After trying to install PRET on Termux I faced some problems, as I couldn't find a guide on how to install PERT on Termux I figured I could make my own and spare you an hour trying to install PRET. :D 
+After trying to install PRET on Termux I faced some problems, as I couldn't find a guide on how to install PERT on Termux and had some trouble installing it on Termux. I figured I could make my own and spare you an hour trying to install PRET. :D 
 
 # Table of contents
 * [Table of conents](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#table-of-contents)
@@ -30,12 +30,9 @@ Alright, you now have Termux session open and it will look like this:
 
 ![](https://puu.sh/CbMAs/52fe2813f6.png)
 
-Type in the following: 
-`pkg upgrade`
-Then..
-`pkg update`
-After you've done that install Python 2 (__not version 3__) by typing: `pkg install python`
-Then install git by typing: `pkg install git` 
+Type in the following: `pkg upgrade` Then type in:`pkg update`
+
+After you've done that install Python 2 (__not version 3__) by typing: `pkg install python` Then install git by typing: `pkg install git` 
 
 If you've done everything correctly you have now installed python and git. 
 
