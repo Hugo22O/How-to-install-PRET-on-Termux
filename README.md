@@ -7,10 +7,12 @@ A guide helping you install PRET on Termux.
 
 When installing PRET on Termux I faced some problems and it didn't go as smooth as I though it 'd go, as there wasn't a guide avaible I decided to make my own and spare you time trying to figure out how to install PRET on Termux. :D
 
+```
 Requirements: (Will be discussed and installed later in the tutorial.)
 * Android Device with Termux. 
 * A working internet connection. 
 * Some common sense & brain power. 
+```
 
 # Table of contents
 * [Table of conents](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#table-of-contents)
