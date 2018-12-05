@@ -5,7 +5,7 @@
 # A-Guide-To-Install-PRET-on-Termux
 A guide helping you install PRET on Termux. 
 
-After trying to install PRET on Termux I faced some problems, as I couldn't find a guide on how to install PERT on Termux and had some trouble installing it on Termux. I figured I could make my own and spare you an hour trying to install PRET. :D 
+When installing PRET on Termux I faced some problems and it didn't go as smooth as I though it 'd go, as there wasn't a guide avaible I decided to make my own and spare you time trying to figure out how to install PRET on Termux. :D
 
 # Table of contents
 * [Table of conents](https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux#table-of-contents)
