@@ -84,6 +84,8 @@ For more information on how to use PRET and the official source you can take a l
 * If you're still getting an error/shebang try this: `export LD_PRELOAD=${PREFIX}/lib/libtermux-exec.so`
 and then restart the Termux session.
 
+*If you expierience any problems you can always make an issue ticket here and I'll get back to you ASAP. https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux/issues*
+
 ## Sources, Notes and/or referentions
 
 * https://termux.com/ | 03/12/18
