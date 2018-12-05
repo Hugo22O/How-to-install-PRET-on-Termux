@@ -2,7 +2,7 @@
 
 *This guide is licensed under the MIT license, you can view the license here: https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux/blob/master/LICENSE*
 
-*You can download the guide here: https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux/releases, However reading with markup is recommended.*
+*You can download the guide here: https://github.com/Hugo22O/A-Guide-To-Install-PRET-on-Termux/releases, however reading with markup is recommended.*
 
 # A-Guide-To-Install-PRET-on-Termux
 A guide helping you install PRET on Termux. 
