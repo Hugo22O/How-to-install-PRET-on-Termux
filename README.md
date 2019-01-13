@@ -33,7 +33,7 @@ Requirements: (Will be discussed and installed later in the tutorial.)
 
 Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required, we will be using Termux to run PRET. Download & install Termux from the playstore: https://play.google.com/store/apps/details?id=com.termux or F-Droid: https://f-droid.org/packages/com.termux/ After having Termux installed open up the app. 
 
-## Installing Python2 & Git
+## Installing Python 2 & Git
 
 Alright, you now have Termux session open and it will look like this: 
 
@@ -43,7 +43,7 @@ Type in the following: `pkg upgrade` Then type in:`pkg update`
 
 After you've done that install Python 2 (__not version 3__) by typing: `pkg install python2` Then install git by typing: `pkg install git` 
 
-If you've done everything correctly you have now installed python and git. 
+If you've done everything correctly you have now installed python 2 and git. 
 
 ## Installing colorama & pysnmp
 For colored output and SNMP support we need to install the third party modules colorama and pysnmp which can be done by typing in: 
