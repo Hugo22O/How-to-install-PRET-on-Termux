@@ -57,7 +57,7 @@ Now we've installed Python2, colorama & pysnmp it is time to download PRET, you 
 
 ## How to run PRET on Termux? 
 
-Open a Termux session and type in `cd PRET`, you should now be in the PRET folder. Once you're there type in `python2 pret.py` this will scann for printers on your local network that have an open port 9100. You can also add the following arguments:
+Open a Termux session and type in `cd PRET`, you should now be in the PRET folder. Once you're there type in `python2 pret.py` this will scan for printers on your local network that have an open port 9100. You can also add the following arguments to the command:
 
 ```
 usage: pret.py [-h] [-s] [-q] [-d] [-i file] [-o file] target {ps,pjl,pcl}
