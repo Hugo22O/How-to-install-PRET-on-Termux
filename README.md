@@ -41,7 +41,7 @@ Alright, you now have Termux session open and it will look like this:
 
 Type in the following: `pkg upgrade` Then type in:`pkg update`
 
-After you've done that install Python 2 (__not version 3__) by typing: `pkg install python` Then install git by typing: `pkg install git` 
+After you've done that install Python 2 (__not version 3__) by typing: `pkg install python2` Then install git by typing: `pkg install git` 
 
 If you've done everything correctly you have now installed python and git. 
 
